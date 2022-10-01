@@ -17,7 +17,7 @@ The major parameters considered here are:
 
 ## :pushpin: **DATASET** 
 * The dataset reference was taken from https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
-* The dataset contains power consumption data across different regions around the United States recorded on an hourly basis.
+* The dataset contains various paramters such as the N, P, K values in the soil and the overall climatic conditions that support the growth of certain crops.
 
 ---
 
