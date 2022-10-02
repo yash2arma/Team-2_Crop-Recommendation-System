@@ -44,8 +44,7 @@ The machine learning model used in this project will firstly have to be generate
 3. [Anuhya Deverakonda](https://github.com/d-anuhya)
 4. [Narimane Beneouakta](https://github.com/Rimabenri)
 5. [Satyaki Bhattacharjee](https://github.com/gunner2k) 
-6. [Meriem Hassani](https://github.com/meriemhassani)
-7. [Chit Hindocha](https://github.com/chithindocha)
+6. [Chit Hindocha](https://github.com/chithindocha)
 
 ---
 
